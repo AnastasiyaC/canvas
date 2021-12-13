@@ -1,6 +1,6 @@
 # Canvas
 
-[Canvas DEMO]https://anastasiyac.github.io/canvas/)
+[Canvas DEMO](https://anastasiyac.github.io/canvas/)
 
 
 ### Description
